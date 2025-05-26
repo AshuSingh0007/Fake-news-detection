@@ -1,16 +1,7 @@
-# Fake-news-detection
+
 
 # Fake News Detection using Machine Learning
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Problem Definition](#problem-definition)
-- [Project Structure](#project-structure)
-- [Datasets](#datasets)
-- [Model Name](#model-name)
-- [Images](#images)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 
 ## Introduction
 This repository contains a comprehensive project for detecting fake news using machine learning techniques and various natural language processing techniques. The project includes data analysis, model training, and a web application for real-time fake news detection. The machine learning model is designed to classify news articles as either real or fake based on their content.
@@ -58,21 +49,6 @@ The model is pre-trained and available as `model.pkl` in this repository, allowi
 
 Feel free to explore the Jupyter Notebook (`Fake_News_Detector-PA.ipynb`) for more details about the model's training and performance.
 
-## Images
-This section provides visuals and diagrams used in the project:
-- Block Diagram
-![Block Diagram](Images/BlockDiagram.jpg)
-
-- Process Flow Diagram
-![Process Flow Diagram](Images/Processflow.jpg)
-
-- Confusion Matrix
-![Confusion Matrix](Images/ConfusionMatrix.jpg)
-
-## Prerequisites
-Before you begin, ensure you have met the following requirements:
-- Python 3.7 or higher
-- Install all dependencies from the requirements.txt file.
 
 ## Getting Started
 To get started with this project, follow these steps:
