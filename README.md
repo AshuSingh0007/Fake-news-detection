@@ -34,7 +34,3 @@ The Passive Aggressive Classifier (PAC) is a type of online learning algorithm f
 ### Model Accuracy
 The Passive Aggressive Classifier achieved an impressive accuracy of **96%** during evaluation. This high accuracy indicates its effectiveness in classifying news articles as reliable or unreliable.
 
-The model is pre-trained and available as `model.pkl` in this repository, allowing you to use it for making predictions.
-
-Feel free to explore the Jupyter Notebook (`Fake_News_Detector-PA.ipynb`) for more details about the model's training and performance.
-
